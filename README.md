@@ -1,17 +1,15 @@
 # Smart Garbage Collection Robot
 
-## Overview
+### Overview
 As part of the Introduction to Engineering Design module in Year 1 of Singapore Polytechnic's Computer Engineering program, the Smart Garbage Collection Robot is an autonomous robotic system designed to optimize waste management and recycling in urban environments. This project integrates advanced technologies such as ultrasonic sensors, infrared sensors, and servo-driven mechanics to detect, collect, and categorize recyclable and non-recyclable waste. By automating waste collection, this robot contributes to sustainability efforts and improves waste management efficiency, particularly in campuses or urban settings.
-
-
+<br>
 
 ### Project Features
 - Autonomous Garbage Collection: The robot can navigate and detect waste using an ultrasonic sensor for obstacle avoidance and an infrared sensor for garbage detection.
 - Recyclable vs Non-Recyclable Sorting: Using a combination of mechanical claws and an arm extension, the robot collects waste and sorts it into recyclable and non-recyclable categories.
 - User-Friendly Display: A real-time LCD display shows the number of recyclable and non-recyclable items collected, offering insights into the robot's progress.
 - Efficient Navigation: The robot can move forward, backward, and turn based on real-time sensor data to avoid obstacles and navigate toward waste items.
-
-
+<br>
 
 ### Technology Stack
 - Arduino IDE: The robot is built using an Arduino platform, leveraging the powerful libraries for servo control, ultrasonic sensors, and LCD integration.
@@ -19,8 +17,7 @@ As part of the Introduction to Engineering Design module in Year 1 of Singapore 
 - Actuators: Servo motors for the arm and claw mechanisms that collect and release waste.
 - LCD Display: A 16x2 LCD with I2C interface to display collected waste information.
 - C++ Programming: The code is written in C++ using Arduino libraries for hardware control and sensor data processing.
-
-
+<br>
 
 ### Key Components
 - Arduino Uno: The main microcontroller that processes sensor data and controls actuators.
@@ -29,8 +26,7 @@ As part of the Introduction to Engineering Design module in Year 1 of Singapore 
 - Infrared Sensor (IR): Detects the presence of garbage in the environment.
 - LCD Screen: Displays real-time data about the collection process.
 - Motor Drivers: Control the movement of the robot based on sensor inputs.
-
-
+<br>
 
 ### How It Works
 - Navigation: The robot moves autonomously using distance data from the ultrasonic sensor. If obstacles are detected, it will attempt to avoid them by turning or reversing.
@@ -38,7 +34,7 @@ As part of the Introduction to Engineering Design module in Year 1 of Singapore 
 - Sorting and Collection: The robot uses a servo-controlled claw and arm extension to pick up the waste. It categorizes the waste into recyclable or non-recyclable based on predefined criteria, storing each in a separate compartment.
 - Real-Time Feedback: The LCD displays the number of recyclable and non-recyclable items collected, providing real-time feedback to the user.
 
-
+<br>
 
 ### Contact
 - Name: Lynn Thit Khant
