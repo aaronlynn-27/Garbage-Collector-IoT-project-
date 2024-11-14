@@ -1,4 +1,6 @@
 # Smart Garbage Collection Robot
+<img src="https://github.com/user-attachments/assets/e3e5884f-0481-4a27-a731-b56475fc3ef3" alt="Garbage Collect2" width="300" height="300">
+<br>
 
 ### Overview
 As part of the Introduction to Engineering Design module in Year 1 of Singapore Polytechnic's Computer Engineering program, the Smart Garbage Collection Robot is an autonomous robotic system designed to optimize waste management and recycling in urban environments. This project integrates advanced technologies such as ultrasonic sensors, infrared sensors, and servo-driven mechanics to detect, collect, and categorize recyclable and non-recyclable waste. By automating waste collection, this robot contributes to sustainability efforts and improves waste management efficiency, particularly in campuses or urban settings.
